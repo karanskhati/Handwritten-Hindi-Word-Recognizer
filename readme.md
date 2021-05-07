@@ -5,6 +5,7 @@ According to the Problem Statement, the OCR must recognize Single Words regardle
 Image Correction and Letter Segmentation is performed using various OpenCv Techniques. 
 While the Letter Recognition was performed using Deep Learning(DL) and Convolutional Neural Networks(CNN) on 
 the [Devnagri Hindi Dataset](https://www.kaggle.com/jhashanku007/devnagri-hindi-dataset "Hindi Dataset").
+This Trained Model achieved a Validation accuracy of 98.7% and Testing accuracy of 93.4%.
 
 ## Key Features:
 	1> Rotation Correction upto 45 Degrees
