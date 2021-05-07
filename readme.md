@@ -40,7 +40,7 @@ HAPPY TESTING !!!!!!!!!!
    </td>
    <td align="center">
       <a href="https://github.com/aryanishan1001">
-         <img src="https://avatars.githubusercontent.com/u/77573210?v=4" width="100px;" alt=""/>
+         <img src="https://avatars.githubusercontent.com/u/54237311?v=4" width="100px;" alt=""/>
          <br />
          <sub>
             <b>Aryan Ishan</b>
@@ -50,7 +50,7 @@ HAPPY TESTING !!!!!!!!!!
    </td>
    <td align="center">
       <a href="https://github.com/karanskhati">
-         <img src="https://avatars.githubusercontent.com/u/54237311?v=4" width="100px;" alt=""/>
+         <img src="https://avatars.githubusercontent.com/u/77573210?v=4" width="100px;" alt=""/>
          <br />
          <sub>
             <b>Karan Singh Khati</b>
