@@ -24,3 +24,38 @@ Mark the "Contains_only_one_word" to true or false according to the requirement.
 Run the file :)
 
 HAPPY TESTING !!!!!!!!!!
+
+## Team Members ✨
+
+<table>
+   <td align="center">
+      <a href="https://github.com/TheKeH20">
+         <img src="https://avatars.githubusercontent.com/u/60650819?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>
+            <b>Keshav Yadav</b>
+         </sub>
+      </a>
+      <br />
+   </td>
+   <td align="center">
+      <a href="https://github.com/aryanishan1001">
+         <img src="https://avatars.githubusercontent.com/u/77573210?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>
+            <b>Aryan Ishan</b>
+         </sub>
+      </a>
+      <br />
+   </td>
+   <td align="center">
+      <a href="https://github.com/karanskhati">
+         <img src="https://avatars.githubusercontent.com/u/54237311?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>
+            <b>Karan Singh Khati</b>
+         </sub>
+      </a>
+      <br />
+   </td>
+</table>
