@@ -1,3 +1,4 @@
+# Introduction:
 This is our project for the mosaic ps1. The main file present will take care of all the test cases.
 
 IT SHOULD BE NOTED THAT, THE WORDS THAT WOULD BE GIVEN SHOULD BE JOINED BY A LINE WHICH MEANS THAT A
