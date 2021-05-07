@@ -6,22 +6,21 @@ Image Correction and Letter Segmentation is performed using various OpenCv Techn
 While the Letter Recognition was performed using Deep Learning(DL) and Convolutional Neural Networks(CNN) on 
 the [Devnagri Hindi Dataset](https://www.kaggle.com/jhashanku007/devnagri-hindi-dataset "Hindi Dataset").
 
+## Key Features:
+	1> Rotation Correction upto 45 Degrees
+	2> Shadow Correction 
+	3> Blurred Images are also read
+These Features completes the given Problem Statement of Mosaic'21 Round-1.
 
-
-As for the main file you will find instructions stating where to paste the code for single word.
-
-NOTE-> The problem statement says that we have to run code for only single word.(no matter the length)
-
-FOR EXTRA POINTS->>>>>>>>>>>>>
-
-	1> The SINGLE WORD image can be rotated upto 45 degrees only
-	2> The SINGLE WORD image can be shadowed(upto a limit)
-	3> The SINGLE WORD image can be blurred.
-
-FOR EXTRA EXTRA POINTS->>>>>>>
-
-   NOTE-> This is an experimental feature and can be used. It could give you acurate results for all words
-          not only present in a line but also in a paragraph.
-
+## More Features:
+	1> Muliple Words in a Line are also recognized
+	2> A Whole Paragraph is also recognized accurately
+These Features completes the Hindi OCR and were used to score BONUS points.
+	
+## Running the OCR:
+All you need to do is Clone the Repo, Open the main.ipynb file-
+Insert the image location in cv2.imread("<location>"),
+Mark the "Contains_only_one_word" to true or false according to the requirement.
+Run the file :)
 
 HAPPY TESTING !!!!!!!!!!
