@@ -1,9 +1,12 @@
-# Introduction:
-This is our project for the mosaic ps1. The main file present will take care of all the test cases.
+# Hindi OCR || Mosaic'21 Round-1:
+## Introduction:
+This Project Hindi OCR(Optical Character Recognizer) will allow user to convert Hindi Handwritten Characters to Text form.
+According to the Problem Statement, the OCR must recognize Single Words regardless of their Length. 
+Image Correction and Letter Segmentation is performed using various OpenCv Techniques. 
+While the Letter Recognition was performed using Deep Learning(DL) and Convolutional Neural Networks(CNN) on 
+the [Devnagri Hindi Dataset](https://www.kaggle.com/jhashanku007/devnagri-hindi-dataset "Hindi Dataset").
 
-IT SHOULD BE NOTED THAT, THE WORDS THAT WOULD BE GIVEN SHOULD BE JOINED BY A LINE WHICH MEANS THAT A
-SINGLE WORD SHOULD BE IN TOUCH OF THE LINE, ANY WORD NOT IN TOUCH OF THE SHEROREKHA, WILL BE DISCARDED
-BY THE MODEL. THIS IS THE ONLY REQUIREMENT FOR OUR MODEL TO RUN.
+
 
 As for the main file you will find instructions stating where to paste the code for single word.
 
